@@ -1,0 +1,12 @@
+{
+  "name": "address-book-server",
+  "description": "A simple express server for the address book application",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "colors": "^1.0.3",
+    "cors": "^2.8.5",
+    "express": "^4.12.2"
+  },
+  "main": "server.js"
+}
