@@ -1,8 +1,7 @@
 {
     "people": [
         {
-            "firstName": "Adam",
-            "lastName": "Wright",
+            "name": "Adam Wright",
             "image": "https://i.pravatar.cc/150?img=1",
             "company": "Strategic Sales Ltd.",
             "phone": "919-555-5555",
@@ -25,8 +24,7 @@
             ]
         },
         {
-            "firstName": "Joe",
-            "lastName": "Manfrey",
+            "name": "Joe Manfrey",
             "image": "https://i.pravatar.cc/150?img=13",
             "company": "Strategic Sales Ltd.",
             "phone": "919-555-5555",
@@ -49,8 +47,7 @@
             ]
         },
         {
-            "firstName": "Douglas",
-            "lastName": "Cho",
+            "name": "Douglas Cho",
             "image": "https://i.pravatar.cc/150?img=3",
             "company": "Strategic Sales Ltd.",
             "phone": "919-555-5555",
@@ -73,8 +70,7 @@
             ]
         },
         {
-            "firstName": "Allison",
-            "lastName": "Murray",
+            "name": "Allison Murray",
             "image": "https://i.pravatar.cc/150?img=14",
             "company": "Strategic Sales Ltd.",
             "phone": "919-555-5555",
@@ -97,8 +93,7 @@
             ]
         },
         {
-            "firstName": "Paul",
-            "lastName": "McCartney",
+            "name": "Paul McCartney",
             "image": "https://i.pravatar.cc/150?img=5",
             "company": "Strategic Sales Ltd.",
             "phone": "919-555-5555",
@@ -121,8 +116,7 @@
             ]
         },
         {
-            "firstName": "John",
-            "lastName": "Lennon",
+            "name": "John Lennon",
             "image": "https://i.pravatar.cc/150?img=16",
             "company": "Strategic Sales Ltd.",
             "phone": "919-555-5555",
@@ -145,8 +139,7 @@
             ]
         },
         {
-            "firstName": "Ringo",
-            "lastName": "Star",
+            "name": "Ringo Star",
             "image": "https://i.pravatar.cc/150?img=7",
             "company": "Strategic Sales Ltd.",
             "phone": "919-555-5555",
@@ -169,8 +162,7 @@
             ]
         },
         {
-            "firstName": "George",
-            "lastName": "Harrison",
+            "name": "George Harrison",
             "image": "https://i.pravatar.cc/150?img=8",
             "company": "Strategic Sales Ltd.",
             "phone": "919-555-5555",
@@ -193,8 +185,7 @@
             ]
         },
         {
-            "firstName": "Larry",
-            "lastName": "Mullen",
+            "name": "Larry Mullen",
             "image": "https://i.pravatar.cc/150?img=9",
             "company": "Strategic Sales Ltd.",
             "phone": "919-555-5555",
@@ -217,8 +208,7 @@
             ]
         },
         {
-            "firstName": "Paul",
-            "lastName": "Hewson",
+            "name": "Paul Hewson",
             "image": "https://i.pravatar.cc/150?img=10",
             "company": "Strategic Sales Ltd.",
             "phone": "919-555-5555",
@@ -241,8 +231,7 @@
             ]
         },
         {
-            "firstName": "David",
-            "lastName": "Evans",
+            "name": "David Evans",
             "image": "https://i.pravatar.cc/150?img=11",
             "company": "Strategic Sales Ltd.",
             "phone": "919-555-5555",
@@ -265,8 +254,7 @@
             ]
         },
         {
-            "firstName": "Adam",
-            "lastName": "Clayton",
+            "name": "Adam Clayton",
             "image": "https://i.pravatar.cc/150?img=12",
             "company": "Strategic Sales Ltd.",
             "phone": "919-555-5555",
