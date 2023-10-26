@@ -1,7 +1,12 @@
 {
     "people": [
         {
-            "name": "Adam Wright",
+            "firstName": "Adam",
+            "lastName": "Wright",
+            "image": "https://i.pravatar.cc/150?img=1",
+            "company": "Strategic Sales Ltd.",
+            "phone": "919-555-5555",
+            "email": "my.email@mycompany.com",
             "education": [
                 {
                     "institution": "NC State University",
@@ -10,17 +15,22 @@
                     "degree": "Bachelor's, Computer Science"
                 }
             ],
-
-            "workExperience": [
+            "experience": [
                 {
                     "institution": "Megacorp",
                     "startYear": 2001,
+                    "endYear": 2004,
                     "title": "Software Developer"
                 }
             ]
         },
         {
-            "name": "Joe Manfrey",
+            "firstName": "Joe",
+            "lastName": "Manfrey",
+            "image": "https://i.pravatar.cc/150?img=13",
+            "company": "Strategic Sales Ltd.",
+            "phone": "919-555-5555",
+            "email": "my.email@mycompany.com",
             "education": [
                 {
                     "institution": "Clemson University",
@@ -29,17 +39,22 @@
                     "degree": "Bachelor's, Computer Science"
                 }
             ],
-
-            "workExperience": [
+            "experience": [
                 {
                     "institution": "Food Inc.",
                     "startYear": 1998,
+                    "endYear": 2004,
                     "title": "Software Developer"
                 }
             ]
         },
         {
-            "name": "Douglas Cho",
+            "firstName": "Douglas",
+            "lastName": "Cho",
+            "image": "https://i.pravatar.cc/150?img=3",
+            "company": "Strategic Sales Ltd.",
+            "phone": "919-555-5555",
+            "email": "my.email@mycompany.com",
             "education": [
                 {
                     "institution": "University of NC, Chapel Hill",
@@ -48,17 +63,22 @@
                     "degree": "Marketing"
                 }
             ],
-
-            "workExperience": [
+            "experience": [
                 {
                     "institution": "Food Inc.",
                     "startYear": 1998,
+                    "endYear": 2004,
                     "title": "Software Developer"
                 }
             ]
         },
         {
-            "name": "Allison Murray",
+            "firstName": "Allison",
+            "lastName": "Murray",
+            "image": "https://i.pravatar.cc/150?img=14",
+            "company": "Strategic Sales Ltd.",
+            "phone": "919-555-5555",
+            "email": "my.email@mycompany.com",
             "education": [
                 {
                     "institution": "University of Southern California",
@@ -67,11 +87,203 @@
                     "degree": "Sociology"
                 }
             ],
-
-            "workExperience": [
+            "experience": [
                 {
                     "institution": "United Products",
                     "startYear": 1998,
+                    "endYear": 2004,
+                    "title": "Directory of IT"
+                }
+            ]
+        },
+        {
+            "firstName": "Paul",
+            "lastName": "McCartney",
+            "image": "https://i.pravatar.cc/150?img=5",
+            "company": "Strategic Sales Ltd.",
+            "phone": "919-555-5555",
+            "email": "my.email@mycompany.com",
+            "education": [
+                {
+                    "institution": "NC State University",
+                    "startYear": 2001,
+                    "endYear": 2004,
+                    "degree": "Bachelor's, Computer Science"
+                }
+            ],
+            "experience": [
+                {
+                    "institution": "Megacorp",
+                    "startYear": 2001,
+                    "endYear": 2004,
+                    "title": "Software Developer"
+                }
+            ]
+        },
+        {
+            "firstName": "John",
+            "lastName": "Lennon",
+            "image": "https://i.pravatar.cc/150?img=16",
+            "company": "Strategic Sales Ltd.",
+            "phone": "919-555-5555",
+            "email": "my.email@mycompany.com",
+            "education": [
+                {
+                    "institution": "Clemson University",
+                    "startYear": 1990,
+                    "endYear": 1995,
+                    "degree": "Bachelor's, Computer Science"
+                }
+            ],
+            "experience": [
+                {
+                    "institution": "Food Inc.",
+                    "startYear": 1998,
+                    "endYear": 2004,
+                    "title": "Software Developer"
+                }
+            ]
+        },
+        {
+            "firstName": "Ringo",
+            "lastName": "Star",
+            "image": "https://i.pravatar.cc/150?img=7",
+            "company": "Strategic Sales Ltd.",
+            "phone": "919-555-5555",
+            "email": "my.email@mycompany.com",
+            "education": [
+                {
+                    "institution": "University of NC, Chapel Hill",
+                    "startYear": 1990,
+                    "endYear": 1995,
+                    "degree": "Marketing"
+                }
+            ],
+            "experience": [
+                {
+                    "institution": "Food Inc.",
+                    "startYear": 1998,
+                    "endYear": 2004,
+                    "title": "Software Developer"
+                }
+            ]
+        },
+        {
+            "firstName": "George",
+            "lastName": "Harrison",
+            "image": "https://i.pravatar.cc/150?img=8",
+            "company": "Strategic Sales Ltd.",
+            "phone": "919-555-5555",
+            "email": "my.email@mycompany.com",
+            "education": [
+                {
+                    "institution": "University of Southern California",
+                    "startYear": 2001,
+                    "endYear": 2005,
+                    "degree": "Sociology"
+                }
+            ],
+            "experience": [
+                {
+                    "institution": "United Products",
+                    "startYear": 1998,
+                    "endYear": 2004,
+                    "title": "Directory of IT"
+                }
+            ]
+        },
+        {
+            "firstName": "Larry",
+            "lastName": "Mullen",
+            "image": "https://i.pravatar.cc/150?img=9",
+            "company": "Strategic Sales Ltd.",
+            "phone": "919-555-5555",
+            "email": "my.email@mycompany.com",
+            "education": [
+                {
+                    "institution": "NC State University",
+                    "startYear": 2001,
+                    "endYear": 2004,
+                    "degree": "Bachelor's, Computer Science"
+                }
+            ],
+            "experience": [
+                {
+                    "institution": "Megacorp",
+                    "startYear": 2001,
+                    "endYear": 2004,
+                    "title": "Software Developer"
+                }
+            ]
+        },
+        {
+            "firstName": "Paul",
+            "lastName": "Hewson",
+            "image": "https://i.pravatar.cc/150?img=10",
+            "company": "Strategic Sales Ltd.",
+            "phone": "919-555-5555",
+            "email": "my.email@mycompany.com",
+            "education": [
+                {
+                    "institution": "Clemson University",
+                    "startYear": 1990,
+                    "endYear": 1995,
+                    "degree": "Bachelor's, Computer Science"
+                }
+            ],
+            "experience": [
+                {
+                    "institution": "Food Inc.",
+                    "startYear": 1998,
+                    "endYear": 2004,
+                    "title": "Software Developer"
+                }
+            ]
+        },
+        {
+            "firstName": "David",
+            "lastName": "Evans",
+            "image": "https://i.pravatar.cc/150?img=11",
+            "company": "Strategic Sales Ltd.",
+            "phone": "919-555-5555",
+            "email": "my.email@mycompany.com",
+            "education": [
+                {
+                    "institution": "University of NC, Chapel Hill",
+                    "startYear": 1990,
+                    "endYear": 1995,
+                    "degree": "Marketing"
+                }
+            ],
+            "experience": [
+                {
+                    "institution": "Food Inc.",
+                    "startYear": 1998,
+                    "endYear": 2004,
+                    "title": "Software Developer"
+                }
+            ]
+        },
+        {
+            "firstName": "Adam",
+            "lastName": "Clayton",
+            "image": "https://i.pravatar.cc/150?img=12",
+            "company": "Strategic Sales Ltd.",
+            "phone": "919-555-5555",
+            "email": "my.email@mycompany.com",
+            "education": [
+                {
+                    "institution": "University of Southern California",
+                    "startYear": 2001,
+                    "endYear": 2005,
+                    "degree": "Sociology"
+                }
+            ],
+            "experience": [
+                {
+                    "institution": "United Products",
+                    "startYear": 1998,
+                    "endYear": 2004,
                     "title": "Directory of IT"
                 }
             ]
